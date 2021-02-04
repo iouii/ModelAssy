@@ -1,0 +1,14 @@
+E:\ModelAssy\ModelAssy\bin\Debug\ModelAssy.exe.config
+E:\ModelAssy\ModelAssy\bin\Debug\ModelAssy.exe
+E:\ModelAssy\ModelAssy\bin\Debug\ModelAssy.pdb
+E:\ModelAssy\ModelAssy\bin\Debug\System.Data.SQLite.dll
+E:\ModelAssy\ModelAssy\bin\Debug\System.Data.SQLite.xml
+E:\ModelAssy\ModelAssy\obj\Debug\ModelAssy.csprojResolveAssemblyReference.cache
+E:\ModelAssy\ModelAssy\obj\Debug\ModelAssy.Form1.resources
+E:\ModelAssy\ModelAssy\obj\Debug\ModelAssy.Properties.Resources.resources
+E:\ModelAssy\ModelAssy\obj\Debug\ModelAssy.csproj.GenerateResource.Cache
+E:\ModelAssy\ModelAssy\obj\Debug\ModelAssy.exe
+E:\ModelAssy\ModelAssy\obj\Debug\ModelAssy.pdb
+E:\ModelAssy\ModelAssy\obj\Debug\ModelAssy.add_Model.resources
+E:\ModelAssy\ModelAssy\bin\Debug\Newtonsoft.Json.dll
+E:\ModelAssy\ModelAssy\bin\Debug\Newtonsoft.Json.xml
